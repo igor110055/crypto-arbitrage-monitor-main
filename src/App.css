@@ -1,0 +1,23 @@
+.app {
+  text-align: center;
+}
+
+.exchange-tiles {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  padding: 20px;
+  justify-content: center;
+}
+
+.arbi-table {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+body {
+  font-family: 'Andare Mono Regular', Arial, monospace;
+  /* background-color: #282c34; */
+  background-color: #5f6779;
+}
